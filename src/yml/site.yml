@@ -1,14 +1,17 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: KVar
+title: KVar | A blog for Software Engineers, Managers and Architects
+description: KVar.dev is your Single source of Technology Blog on Software
+  Design & Engineering. We don't just Teach, we Build Together.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - software
+  - golang
+  - python
+  - go
+  - webdevelopment
+  - projects
 show_hero: true
+paginate: 25
 menu:
   - title: Home
     url: /
@@ -18,5 +21,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: admin@kvar.dev
+disqus_username: kvar-dev
